@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CodeHabits</string>
+    <string name="day1_title">Happy Birthday Card</string>
+    <string name="day2_title">Simple Article</string>
+    <string name="day3_title">Simple Task Completed</string>
+    <string name="day4_title">Compose Quadrant</string>
+    <string name="day5_title">Business Card</string>
+    <string name="day1_description">Learn basic Image, Text, and Basic Layout Composable such as Box, Column, and Row Composable.</string>
+    <string name="day2_description">Learn more about Column Composable to layout a Simple Article App.</string>
+    <string name="day3_description">Layout a Task Completed Screen.</string>
+    <string name="day4_description">Learn more about Column and Row Composable to create Quadrant.</string>
+    <string name="day5_description">Learn more about basic layout Composable with build Simple Business Card.</string>
+    <string name="app_bar_title">30 Days of Code</string>
+</resources>
